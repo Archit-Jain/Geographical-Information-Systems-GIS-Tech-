@@ -5,4 +5,4 @@ This paper aims to analyze the issues and develop maps which can be used to spre
 This paper hopes Policy makers can develop a more focused for policies for the impacted group and Analyst can better plan strategic economic rebound.
 
 
-![alt text](https://github.com/Archit-Jain/Geographical-Information-Systems-GIS-Tech-/edit/main/map.png)
+![alt text](https://github.com/Archit-Jain/Geographical-Information-Systems-GIS-Tech-/blob/main/Map.png)
